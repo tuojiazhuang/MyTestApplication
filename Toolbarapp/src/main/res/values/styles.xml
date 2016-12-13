@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/material_blue_500</item>
+        <item name="colorPrimaryDark">@color/material_purple_700</item>
+        <item name="colorAccent">@color/material_pink_A200</item>
+        <item name="actionBarSize">20pt</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/material_blue_500</item>
+        <item name="colorPrimaryDark">@color/material_purple_700</item>
+        <item name="colorAccent">@color/material_pink_A200</item>
+        <item name="actionBarSize">20pt</item>
+
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="Theme.ToolBar.Base" parent="AppTheme.NoActionBar">
+        <item name="android:textColorPrimary">@color/material_pink_A200</item>
+    </style>
+    <style name="Theme.ToolBar.ZhiHu" parent="AppTheme.NoActionBar">
+        <item name="actionOverflowButtonStyle">@style/ActionButton.Overflow.ZhiHu</item>
+    </style>
+    <style name="ActionButton.Overflow.ZhiHu" parent="android:style/Widget.Holo.Light.ActionButton.Overflow">
+        <item name="android:src">@drawable/add</item>
+    </style>
+
+
+</resources>

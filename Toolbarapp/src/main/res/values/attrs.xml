@@ -1,0 +1,6 @@
+<resources>
+        <declare-styleable name="CurToolBar">
+            <attr name="rightButtonIcon" format="reference"></attr>
+            <attr name="isShowSearchView" format="boolean"></attr>
+        </declare-styleable>
+</resources>

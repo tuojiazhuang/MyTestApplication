@@ -1,0 +1,1 @@
+MyApplicaton中的app1和app2用于掩饰intent FLAG和activity的属性例如allowTaskReparenting

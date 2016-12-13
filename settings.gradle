@@ -1,0 +1,1 @@
+include ':App1', ':App2', ':ActionBarApp', ':Toolbarapp', ':CustomView', ':FragmentApp', ':SimpleFragmentApp', ':BroadcastApp', ':DialogApp', ':ContentProviderApp', ':ContentResolverApp', ':HttpApp', ':ViewPagerApp', ':SimpleFragment', ':OrientationApplication', ':ThreadTestApp', ':ProgressBarDownloadManagerapp', ':VolleyApp'

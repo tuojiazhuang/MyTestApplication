@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dialog Application</string>
+    <string name="notification">Notification Dialog</string>
+    <string name="select">Select Dialog</string>
+    <string name="singlechoick">Single Choice Dialog</string>
+    <string name="multiplechoick">Multiple Choice Dialog</string>
+    <string name="list">List Dialog</string>
+    <string name="custom">Custom Dialog</string>
+    <string name="progress">Progress Dialog</string>
+
+</resources>

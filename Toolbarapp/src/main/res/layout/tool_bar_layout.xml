@@ -1,0 +1,30 @@
+<!--?xml version="1.0" encoding="utf-8"?-->
+<relativelayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <textview
+        android:clickable="true"
+        android:drawableStart="@drawable/leftarrow"
+        android:duplicateParentState="true"
+        android:gravity="center_vertical"
+        android:hint="@string/hint"
+        android:id="@+id/toolbar_search_view"
+        android:layout_centerVertical="true"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="50dp"
+        android:layout_width="match_parent"
+        android:padding="5dp"
+        android:singleLine="true">
+
+        <imagebutton
+            android:background="@android:color/transparent"
+            android:id="@+id/toolbar_imgbtn"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_width="wrap_content">
+
+        </imagebutton></textview></relativelayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActionBarApp/ActionBarApp.iml" filepath="$PROJECT_DIR$/ActionBarApp/ActionBarApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/App1/App1.iml" filepath="$PROJECT_DIR$/App1/App1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/App2/App2.iml" filepath="$PROJECT_DIR$/App2/App2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BroadcastApp/BroadcastApp.iml" filepath="$PROJECT_DIR$/BroadcastApp/BroadcastApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContentProviderApp/ContentProviderApp.iml" filepath="$PROJECT_DIR$/ContentProviderApp/ContentProviderApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContentResolverApp/ContentResolverApp.iml" filepath="$PROJECT_DIR$/ContentResolverApp/ContentResolverApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomView/CustomView.iml" filepath="$PROJECT_DIR$/CustomView/CustomView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DialogApp/DialogApp.iml" filepath="$PROJECT_DIR$/DialogApp/DialogApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentApp/FragementApp.iml" filepath="$PROJECT_DIR$/FragmentApp/FragementApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentApp/FragmentApp.iml" filepath="$PROJECT_DIR$/FragmentApp/FragmentApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpApp/HttpApp.iml" filepath="$PROJECT_DIR$/HttpApp/HttpApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrientationApplication/OrientationApplication.iml" filepath="$PROJECT_DIR$/OrientationApplication/OrientationApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgressBarDownloadManagerapp/ProgressBarDownloadManagerapp.iml" filepath="$PROJECT_DIR$/ProgressBarDownloadManagerapp/ProgressBarDownloadManagerapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFragment/SimpleFragment.iml" filepath="$PROJECT_DIR$/SimpleFragment/SimpleFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFragmentApp/SimpleFragmentApp.iml" filepath="$PROJECT_DIR$/SimpleFragmentApp/SimpleFragmentApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadTestApp/ThreadTestApp.iml" filepath="$PROJECT_DIR$/ThreadTestApp/ThreadTestApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Toolbarapp/Toolbarapp.iml" filepath="$PROJECT_DIR$/Toolbarapp/Toolbarapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPagerApp/ViewPagerApp.iml" filepath="$PROJECT_DIR$/ViewPagerApp/ViewPagerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VolleyApp/VolleyApp.iml" filepath="$PROJECT_DIR$/VolleyApp/VolleyApp.iml" />
+    </modules>
+  </component>
+</project>

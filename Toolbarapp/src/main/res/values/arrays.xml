@@ -1,0 +1,16 @@
+<resources>
+    <string-array name="drawablearray">
+<item>@drawable/add</item>
+<item>@drawable/logo</item>
+</string-array>
+    <string-array name="colorarray">
+        <item>@color/material_blue_500</item>
+    </string-array>
+</resources>
+
+
+
+
+
+
+

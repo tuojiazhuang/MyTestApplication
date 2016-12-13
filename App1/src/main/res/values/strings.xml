@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="brought_to_frount">Brought to front</string>
+    <string name= "flag_new_task">FLAG_ACTIVITY_NEW_TASK</string>
+    <string name="clear_top">clear_top</string>
+    <string name="allreparenting">allowTaskReparenting_true</string>
+</resources>

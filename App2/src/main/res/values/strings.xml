@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SecondApplication</string>
+    <string name="button_1">Next</string>
+    <string name="helloworld">Hello World!</string>
+    <string name="brought_to_frount">FLAG_ACTIVITY_BROUGHT_TO_FRONT</string>
+    <string name= "flag_new_task">FLAG_ACTIVITY_NEW_TASK</string>
+    <string name="cleartop">FLAG_ACTIVITY_CLEAR_TOP</string>
+    <string name="newtask">FLAG_ACTIVITY_NEW_TASK</string>
+</resources>

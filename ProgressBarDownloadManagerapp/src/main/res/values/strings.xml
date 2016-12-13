@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Download</string>
+    <string name="button1text">Download</string>
+    <string name="tip_download_file">file will be saved to sdcard, the path is: </string>
+    <string name="download_notification_title">MeiLiShuo</string>
+    <string name="app_status_download">click to download</string>
+    <string name="app_status_downloaded">downloaded, click to download again</string>
+    <string name="app_status_download_fail">download fail, click to download again</string>
+
+</resources>

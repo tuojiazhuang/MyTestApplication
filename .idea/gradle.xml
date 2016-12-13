@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ActionBarApp" />
+            <option value="$PROJECT_DIR$/App1" />
+            <option value="$PROJECT_DIR$/App2" />
+            <option value="$PROJECT_DIR$/BroadcastApp" />
+            <option value="$PROJECT_DIR$/ContentProviderApp" />
+            <option value="$PROJECT_DIR$/ContentResolverApp" />
+            <option value="$PROJECT_DIR$/CustomView" />
+            <option value="$PROJECT_DIR$/DialogApp" />
+            <option value="$PROJECT_DIR$/FragmentApp" />
+            <option value="$PROJECT_DIR$/HttpApp" />
+            <option value="$PROJECT_DIR$/OrientationApplication" />
+            <option value="$PROJECT_DIR$/ProgressBarDownloadManagerapp" />
+            <option value="$PROJECT_DIR$/SimpleFragment" />
+            <option value="$PROJECT_DIR$/SimpleFragmentApp" />
+            <option value="$PROJECT_DIR$/ThreadTestApp" />
+            <option value="$PROJECT_DIR$/Toolbarapp" />
+            <option value="$PROJECT_DIR$/ViewPagerApp" />
+            <option value="$PROJECT_DIR$/VolleyApp" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ActionBarApp" />
+            <option value="$PROJECT_DIR$/App1" />
+            <option value="$PROJECT_DIR$/App2" />
+            <option value="$PROJECT_DIR$/BroadcastApp" />
+            <option value="$PROJECT_DIR$/ContentProviderApp" />
+            <option value="$PROJECT_DIR$/ContentResolverApp" />
+            <option value="$PROJECT_DIR$/CustomView" />
+            <option value="$PROJECT_DIR$/DialogApp" />
+            <option value="$PROJECT_DIR$/FragmentApp" />
+            <option value="$PROJECT_DIR$/HttpApp" />
+            <option value="$PROJECT_DIR$/OrientationApplication" />
+            <option value="$PROJECT_DIR$/ProgressBarDownloadManagerapp" />
+            <option value="$PROJECT_DIR$/SimpleFragment" />
+            <option value="$PROJECT_DIR$/SimpleFragmentApp" />
+            <option value="$PROJECT_DIR$/ThreadTestApp" />
+            <option value="$PROJECT_DIR$/Toolbarapp" />
+            <option value="$PROJECT_DIR$/ViewPagerApp" />
+            <option value="$PROJECT_DIR$/VolleyApp" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

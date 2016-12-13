@@ -1,0 +1,24 @@
+<resources>
+    <!-- Base application theme. -->
+
+    <style name="AppTheme" parent="MyAppBaseTheme">
+
+
+    </style>
+
+    <style name="MyAppBaseTheme" parent="Theme.AppCompat.Light">
+
+        <!-- customize the color palette -->
+        <!--Action bar color-->
+        <item name="colorPrimary">@color/material_purple_700</item>
+        <!--Status bar color-->
+        <item name="colorPrimaryDark">@color/material_blue_500</item>
+        <!--Focus color-->
+        <item name="colorAccent">@color/material_pink_A200</item>
+
+    </style>
+
+    <style name="ImageTranslucentTheme" parent="AppTheme">
+    </style>
+    <style name="ColorTranslucentTheme" parent="AppTheme"></style>
+</resources>

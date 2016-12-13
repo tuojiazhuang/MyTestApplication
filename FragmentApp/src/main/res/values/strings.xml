@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FragementApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome_blank_fragment">Welcome to blank fragment</string>
+    <string name="talk">聊天</string>
+    <string name="friend">好友</string>
+    <string name="record">通讯录</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="talk_page">聊天界面</string>
+    <string name="friend_page">好友界面</string>
+    <string name="record_page">通讯录界面</string>
+</resources>

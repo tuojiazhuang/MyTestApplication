@@ -1,0 +1,6 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:drawable="@drawable/add" />
+    <item android:state_focused="true" android:drawable="@drawable/notification" />
+    <item android:state_pressed="true" android:drawable="@drawable/search"  />
+    <item android:drawable="@drawable/plane"  />
+</selector>

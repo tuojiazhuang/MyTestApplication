@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ActioinBarApp</string>
+    <string name="hello">Hello world</string>
+    <string name="title_activity_basic">BasicActivity</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="next">Next</string>
+    <string name="ok">OK</string>
+    <string name="action_search">Search</string>
+    <string name="share">Share</string>
+    <string name="imagetranslucent">Image Translucent Action Bar</string>
+    <string name="colortranslucent">Color Translucent Action Bar</string>
+</resources>
